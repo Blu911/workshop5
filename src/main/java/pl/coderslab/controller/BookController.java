@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import pl.coderslab.domain.Book;
 import pl.coderslab.service.BookService;
-import pl.coderslab.service.impl.MemoryBookService;
 
 import java.util.List;
 
